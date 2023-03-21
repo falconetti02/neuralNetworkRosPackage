@@ -1,0 +1,16 @@
+/home/falconetti/deneme_ws/install/_setup_util.py
+/home/falconetti/deneme_ws/install/env.sh
+/home/falconetti/deneme_ws/install/setup.bash
+/home/falconetti/deneme_ws/install/local_setup.bash
+/home/falconetti/deneme_ws/install/setup.sh
+/home/falconetti/deneme_ws/install/local_setup.sh
+/home/falconetti/deneme_ws/install/setup.zsh
+/home/falconetti/deneme_ws/install/local_setup.zsh
+/home/falconetti/deneme_ws/install/.rosinstall
+/home/falconetti/deneme_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/falconetti/deneme_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/falconetti/deneme_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/falconetti/deneme_ws/install/share/beginner_tutorials/package.xml
+/home/falconetti/deneme_ws/install/lib/beginner_tutorials/talker.py
+/home/falconetti/deneme_ws/install/lib/beginner_tutorials/listener.py
+/home/falconetti/deneme_ws/install/bin/test_dataset.csv
